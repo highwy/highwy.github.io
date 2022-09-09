@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiye Huang(黄为烨)"
+title: "Weiye Huang (黄为烨)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
