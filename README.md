@@ -1,5 +1,5 @@
-# Ze Jiang
-This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
+# HUANG Weiye
+This is HUANG Weiye's personal [homepage](https://highwy.github.io/).
 
 ## A short introduction
 I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
