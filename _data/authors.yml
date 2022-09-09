@@ -17,18 +17,18 @@ Name2 Name2:
   twitter     : "name2"
   google_plus : "Name"
 
-Ze Jiang:
-  name             : "Ze Jiang"
+Weiye Huang:
+  name             : "Weiye Huang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : "Postgraduate @LZU, expected to graduate in June 2023"
+  location         : "Fuzhou, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "mailto:highwy@lzu.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/"
