@@ -14,7 +14,7 @@ Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf)
 Education
 ======
 * B.Eng. in Information Management and Information System, Central South University, Changsha, China, 2016-2020
-* M.Sc. in Agricultural Economic Management, Lanzhou University, 2020-Now
+* M.Sc. in Agricultural Economic Management, Lanzhou University, Lanzhou, China, 2020-Now
 
 Research Interests
 ======
