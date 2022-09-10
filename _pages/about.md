@@ -30,7 +30,7 @@ Huang, W., et al., Complex spectral classification based on GAN and semi-supervi
 
 Huang, W., et al., Grassland function groups recognition based on hyperspectral remote sensing and machine learning.Ready to Submit. *In preparation for submission to Remote Sensing of Environment*. 
 
-Huang, W., Guan, K.*, Hu, Y., Classification of small sample vegetation based on hyperspectral remote sensing and transfer learning. Remote Sensing of Environment. SCIE-Q1. Under review*. 
+Huang, W., Guan, K.*, Hu, Y., Classification of small sample vegetation based on hyperspectral remote sensing and transfer learning. submitted to *Remote Sensing of Environment. Under review*. 
 
 Huang, W., et al., 2022. Hyperspectral Monitoring Driven by Machine Learning Methods for Grassland
 Above-Ground Biomass. Remote Sensing 14, No. 9: 2086. [link]([https://doi.org/10.1016/j.jhydrol.2021.126816](https://doi.org/10.3390/rs14092086))
