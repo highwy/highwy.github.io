@@ -1,5 +1,5 @@
 ---
-title: "Remote sensing field survey"
+title: "Ecology Remote sensing field survey"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-T1-LZU
