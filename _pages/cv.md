@@ -13,16 +13,15 @@ Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf)
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Eng. in Information Management and Information System, Central South University, Changsha, China, 2016-2020
+* M.Sc. in Agricultural Economic Management, Lanzhou University, 2020-Now
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Data Mining and Environmental Management
+* Remote Sening and Geographic Information System
+* Hyperspectral UAV
+* Computer Vision
 
 Research Highlights
 ======
@@ -77,7 +76,7 @@ Teaching
   
 Languages
 ======
-Mandarin, English
+Hokkien, Mandarin, English
 
 Skills & Expertise 
 ======
