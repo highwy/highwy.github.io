@@ -85,11 +85,11 @@ author:
   bio              : "Master student in SKLAGE@LZU, major in Remote sensing and Deep learning"
   location         : "Fuzhou, Fujian"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/"
-  googlescholar    : "https://scholar.google.com/citations?user="
+  pubmed           :
+  googlescholar    :
   email            : "huangwy20@lzu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/"
-  publons          : "https://publons.com/researcher/"
+  researchgate     :
+  publons          : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -101,20 +101,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : ""
-  orcid            : "http://orcid.org/0000-0002"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"http://stackoverflow.com/users/123456/username"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : ""
+  youtube          : 
   wikipedia        :
       
 # Reading Files
