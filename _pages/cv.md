@@ -8,13 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](http://highwy.github.io/files/CV_WeiyeHuang.pdf))
 ======
 
 Education
 ======
 * B.Eng. in Information Management and Information System, Central South University, Changsha, China, 2016-2020
-* M.Sc. in Agricultural Economic Management, Lanzhou University, Lanzhou, China, 2020-Now
+* M.Sc. in Agricultural Economic Management, Lanzhou University, Lanzhou, China, 2020-Current
 
 Research Interests
 ======
@@ -23,38 +23,6 @@ Research Interests
 * Hyperspectral UAV
 * Computer Vision
 
-Research Highlights
-======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
-
-Work experience
-======
-* Jun. 2021 - Current: Postdoctoral Research Fellow
-  * Water Research Centre, University of New South Wales, Sydney, Australia
-  * Duties included: 
-    + Drought forecasting using CMIP decadal prediction and ACCESS seasonal forecasts
-    + CMIP decadal prediction for rainfall forecasting over Australia
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
-
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: 
-    + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-	+ Involve in the Development of Index-based Drought Insurance for Sovereign Disaster Risk Transfer, World Bank Project. 
-	+ Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-	+ Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
-
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included:
-    + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
-    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
 
 Publications
 ======
@@ -62,17 +30,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Languages
 ======
@@ -80,26 +37,19 @@ Hokkien, Mandarin, English
 
 Skills & Expertise 
 ======
-* Statistical hydrology and water resource engineering.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Languages: Python, Matlab, R, SQL, C, Java, C #
+* Mathematical knowledge: Calculus, Linear algebra, Statistics, Operational research, Discrete mathematics
+* Abilities: Data Science, Machine Learning (Feature engineering), Deep Learning (CNN,GAN,GNN)
+* Tools (Win/Linux): Pytorch, Keras, Tensorflow, Sklearn, Im-sklearn, Seaborn, MMdet , Statsmodels
+* Computer Vision (CV): Image classification, Instance segmentation, Object detection, OCR
+* Interest Areas: Signal Processing, Time Series, Recommendation System (RSs), Spatio-Temporal Analysis
 
-Service and leadership
+Honors & Awards
 ======
-* Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Reviewer Editor: 
-  + Frontiers in Water
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + Frontiers in Water
-  + International Journal of River Basin Management 
-  + Water
-  + Sustainability
-
-Membership
-======
-* American Geosciences Union (AGU)
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* Outstanding Party Member of Lanzhou University 2021
+* Outstanding Student of Central South University 2018
+* Third Prize for the MatherCup Mathematical Modeling 2022
+* H Award of American Mathematical Contest in Modeling 2018
+* Bronze Award of China College Students’ Entrepreneurship Competition (Hunan Division ) 2018
+* Champion of the Central South University Football League 2018
+* Certificate of the CDA data analyst 2018
