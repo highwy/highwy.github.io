@@ -11,18 +11,12 @@ redirect_from:
 This is Weiye Huang's personal homepage.
 
 ## A short introduction
-I am a Master's Degree Student in the Lanzhou University and [SKLAGE@LZU](https://www.sklgae.lzu.edu.cn/) working in the field of remote sensing. I received my B.Eng. in Information Management and Information System from Central South University, China.
+I am a Master's Degree Student in the Lanzhou University and [SKLAGE@LZU](www.sklgae.lzu.edu.cn/) working in the field of remote sensing. I received my B.Eng. in Information Management and Information System from Central South University, China.
 
 <b>Research Interests:</b>
 * Remote Sening and Geographic Information System
 * Data Mining and Environmental Management
 * Computer Vision
-
-<b>Research Highlights:</b>
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
 Huang, W., et al., Complex spectral classification based on GAN and semi-supervised learning. *Working Paper*.
