@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is Weiye Huang's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
+This is Weiye Huang's personal homepage.
 
 ## A short introduction
-I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
+I am a Master's Degree Student in the Lanzhou University and [SKLAGE@LZU](https://www.sklgae.lzu.edu.cn/) working in the field of remote sensing. I received my B.Eng. in Information Management and Information System from Central South University, China.
 
 <b>Research Interests:</b>
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Remote Sening and Geographic Information System
+* Data Mining and Environmental Management
+* Computer Vision
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
@@ -37,4 +36,4 @@ Above-Ground Biomass. Remote Sensing 14, No. 9: 2086. [link](https://doi.org/10.
 
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about HUANG weiye can be found in [CV](https://highwy.github.io/cv/).
