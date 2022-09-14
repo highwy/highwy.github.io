@@ -11,4 +11,4 @@ location: "Lanzhou, China"
 * Position: Teaching Assistant 
 * Role: Demonstrator and Laboratory Technician
 * Number of students: 50
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2019/2019-T1_CVEN3501x7193.pdf)
+* Course Profile: [Download]
