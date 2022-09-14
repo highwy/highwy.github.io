@@ -11,7 +11,7 @@ redirect_from:
 This is Weiye Huang's personal homepage.
 
 ## A short introduction
-I am a Master's Degree Student in the Lanzhou University and [SKLAGE@LZU](www.sklgae.lzu.edu.cn/) working in the field of remote sensing. I received my B.Eng. in Information Management and Information System from Central South University, China.
+I am a Master's Degree Student in the Lanzhou University and [SKLAGE@LZU](https://sklgae.lzu.edu.cn/) working in the field of remote sensing. I received my B.Eng. in Information Management and Information System from Central South University, China.
 
 <b>Research Interests:</b>
 * Remote Sening and Geographic Information System
