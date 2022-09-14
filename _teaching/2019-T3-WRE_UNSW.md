@@ -11,4 +11,4 @@ location: "Lanzhou, China"
 * Position: Teaching Assistant 
 * Role: Demonstrator and Tutor
 * Number of students: ~20
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2019/2019-T3_CVEN9625x8224.pdf)
+* Course Profile: [Download]
