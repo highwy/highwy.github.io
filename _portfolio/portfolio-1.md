@@ -1,7 +1,7 @@
 ---
 title: "Dynamic monitoring of natural grassland ecosystem on Qinghai-Tibet Plateau based on
 hyperspectral remote sensing"
-excerpt: " <br/><img src='/images/drought.png'>"
+excerpt: " <br/><img src='/images/Grassland.jpg'>"
 collection: portfolio
 ---
 
