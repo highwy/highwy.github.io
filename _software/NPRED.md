@@ -1,24 +1,11 @@
 ---
-title: "Predictor identifier: Nonparametric PREDiction (NPRED)"
-excerpt: "The open-source R package NPRED is used to identify the meaningful predictors to the response from a large set of potential predictors."
+title: "The publicly available contest code"
+excerpt: "Records of individual competitions and events"
 collection: software
 ---
 <img src='/images/mi.png'><br/>
 
-A new version based on [NPRED](http://hydrology.unsw.edu.au/download/software/NPRED) without calling Fortran codes.
+A new version based on [Github](https://github.com/highwy/resume) without calling codes.
 
 ## Installation
-You can install the package via devtools from [GitHub](https://github.com/) with:
-
-```r
-devtools::install_github("zejiang-unsw/NPRED")
-```
-
-## Citations
-Sharma, A., & Mehrotra, R. (2014). An information theoretic alternative to model a natural system using observational information alone. *Water Resources Research*, 50(1): 650-660.
-
-Galelli S., Humphrey G.B., Maier H.R., Castelletti A., Dandy G.C. & Gibbs M.S. (2014). An evaluation framework for input variable selection algorithms for environmental data-driven models, *Environmental Modelling & Software*, 62, 33-51.
-
-Sharma, A., Mehrotra, R., Li, J., & Jha, S. (2016). A programming tool for nonparametric system prediction using Partial Informational Correlation and Partial Weights. *Environmental Modelling & Software*, 83, 271-275.
-
-Mehrotra, R., & Sharma, A. (2006). Conditional resampling of hydrologic time series using multiple predictor variables: A K-nearest neighbour approach. *Advances in Water Resources*, 29(7), 987-999.
+The IPython file can be viewed directly in Github. To download it to a local directory, you need to open it with Jupyter NoteBook.
